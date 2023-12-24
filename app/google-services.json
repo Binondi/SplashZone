@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1059898577053",
+    "firebase_url": "https://splashzone-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "splashzone",
+    "storage_bucket": "splashzone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059898577053:android:e6120562f3c4ff495bc474",
+        "android_client_info": {
+          "package_name": "devs.org.splashzone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVEfVsJQ7uzfwoRGyVm_FXhK-xEWdfCcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

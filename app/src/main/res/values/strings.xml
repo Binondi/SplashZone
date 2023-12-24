@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SplashZone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="developer">Binondi borthakur</string>
+    <string name="disclaimer">All the wallpapers in this app are under common creative license and the credit goes to their respective owners. These images are not endorsed by any of the prospective owners, and the images are used simply for aesthetic purposes. No copyright infringement is intended, and any request to remove one of the images/logos/names will be honored.</string>
+
+</resources>
