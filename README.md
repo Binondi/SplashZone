@@ -1,2 +1,2 @@
 # SplashZone
-SplashZone is a wallpaper app .
+SplashZone is a simole wallpaper app wirth beautiful dynamic material UI .
